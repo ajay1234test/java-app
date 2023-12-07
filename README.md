@@ -110,3 +110,6 @@ $ java -jar target/app.jar
 <!-- #comments added1
 comments 2 added -->
 
+<!-- test comments 2
+test3
+test4 -->
