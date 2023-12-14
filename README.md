@@ -108,6 +108,3 @@ $ mvn clean package
 $ java -jar target/app.jar
 ```
 <!-- test comment added -->
-
-<!-- test comment 2 added -->
-<!-- test comment 2 added -->
